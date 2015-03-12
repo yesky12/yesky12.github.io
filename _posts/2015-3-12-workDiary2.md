@@ -57,4 +57,17 @@ client;11
 	最后做成的就是 ssdb-docs 这个 SSDB 数据库的文档项目. 大家如果感兴趣, 可以直接把这个 Markdown 文档工具拿来用, 也给自己的项目写文档. 用起来非常方便, 把你的 .md 文件放到一个目录, 就能一行命令解析并生成 HTML 文件.
 	
 	开源项目地址[ideawu/ssdb-docs](https://github.com/ideawu/ssdb-docs)  
-	
+
+
+##github
+
+[yesky12/testcase](https://github.com/yesky12/testcase) 
+
+- 测试工具
+
+	可以在Intellij IDEA里提交代码到github了.
+
+- 用途
+
+	以后开发中随时做的testcase都可以传到网上代码仓库里. 
+ 
