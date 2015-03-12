@@ -1,4 +1,10 @@
 
+//github
+github终于可以提交成功了，   <br />
+	markdown语法还不熟，   <br />
+	在Intellij IDEA下载了两个插件--gauge/Markdown   <br />
+
+		
 //发现   <br />
 jQuery插件实战之fullcalendar（日历插件）Demo - 顾丽江的专栏 - 博客频道 - CSDN.NET   <br />
 http://blog.csdn.net/gulijiang2008/article/details/6863755  <br />
